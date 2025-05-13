@@ -1,8 +1,6 @@
-# Getting Started with the Tumblr API
+Tumblr API
 
 This is a quick-start guide to making something with Tumblr's public API. It assumes very little prior knowledge of programming, but to get the most out of Tumblr's API, you'll need to learn some concepts and do some setup. From here, you can dive into some of the examples in this folder for more!
-
-## What is the Tumblr API?
 
 The Tumblr API is a publicly-accessible interface for getting information out of or into Tumblr, such as a blog's posts, your own likes, or search results for a certain tag. The Tumblr API is what powers Tumblr itself, including our website and our mobile apps. The API is what provides the details about what you're seeing on Tumblr. The website and our mobile apps are just our officially-supported ways of accessing Tumblr, but you can build your own!
 
